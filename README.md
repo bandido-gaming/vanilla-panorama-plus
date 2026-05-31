@@ -12,7 +12,7 @@ and Supported Shaders: [BSL Shaders](https://modrinth.com/shader/bsl-shaders),
 ![Comparison Vanilla vs Custom Panorama for 26.1](https://cdn.modrinth.com/data/cached_images/5ad90165f33a07cc73dba04aaea6004f3892023a_0.webp)
 
 ### Contibute to the Project!
-We are Open for help for the Project, here is our [**GITHUB**](https://github.com/bandido-gaming/vanilla-panorama-plus) and we have a [Seperate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all the Assets so you can build your own custom Panorama without [Respackopt](https://modrinth.com/mod/respackopts) to Switch Beetween Panoramas, or just Contribute easly to the Project. If you want to use this Project in a Modpack or Fork it, Please link this Modrinth page or our GitHub for Credit.
+We are Open for help for the Project, here is our [**Modrinth**](https://modrinth.com/resourcepack/vanilla-panorama-+) and we have a [Seperate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all the Assets so you can build your own custom Panorama without [Respackopt](https://modrinth.com/mod/respackopts) to Switch Beetween Panoramas, or just Contribute easly to the Project. If you want to use this Project in a Modpack or Fork it, Please link this Modrinth page or our GitHub for Credit.
 
 ### Credits
 
