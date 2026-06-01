@@ -12,7 +12,7 @@
         shaderpack: {
             type: "enum",
             default: "complementary",
-            values: ["complementary", "vanilla", "bsl", "solas", "mignature"]
+            values: ["complementary", "vanilla", "bsl", "solas", "mignature", "vibrant"]
             },
         resourcepack: {
             type: "enum",
