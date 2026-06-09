@@ -1,0 +1,3 @@
+{
+    condition: "(vanillaPanoramaPlus.version.v1_21_11 & vanillaPanoramaPlus.vibrant & vanillaPanoramaPlus.resourcepack.vanilla) | (vanillaPanoramaPlus.version.auto & vanillaPanoramaPlus.shaderpack.vibrant & vanillaPanoramaPlus.resourcepack.vanilla & version('minecraft', '>=1.21.11') & version('minecraft', '<=1.21.11'))"
+}
