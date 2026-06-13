@@ -18,6 +18,6 @@
             type: "enum",
             default: "vanilla",
             values: ["vanilla", "barebones", "faitful"]
-            },
+            }
     }
 }
