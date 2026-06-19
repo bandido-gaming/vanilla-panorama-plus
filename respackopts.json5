@@ -6,7 +6,7 @@
         // Your config options will go here
         version: {
             type: "enum",
-            default: "v26_1",
+            default: "v26_2",
             values: ["v26_2","v26_1","v1_21_11"]
             },
         shaderpack: {
