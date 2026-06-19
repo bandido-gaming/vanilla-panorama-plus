@@ -1,18 +1,18 @@
-**_Vanilla Panorama +_** is a Resource pack that Changes the menu Panorama to a Custom Panorama Inspired form the Vanilla one. For the Tiny Takeover one I added the most of the Baby Animals with new Models as possible, and put on Shader Packs at Sunrise. I also used the same seed as the Vanilla Panorama.
+**_Vanilla Panorama +_** is a Resource pack that Changes the menu Panorama to a Custom Panorama Inspired form the Vanilla one. For the Chaos Cubed one I added the Sulfur Cubes with Multiple Different blocks Inside, and put on Shader Packs with Glowing ores Illuminating the Cave.
 
-As of 26.1.2 **_Vanilla Panorama +_**, has [Respackopt](https://modrinth.com/mod/respackopts) support. So these are all the Supported Resource Packs:
+As of **_Vanilla Panorama +_** version 26.1.2, has [Respackopt](https://modrinth.com/mod/respackopts) support. So these are all the Supported Resource Packs:
 [Bare Bones](https://modrinth.com/resourcepack/bare-bones), 
 [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x), 
 and Supported Shaders: [BSL Shaders](https://modrinth.com/shader/bsl-shaders),
 [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) + [EuphoriaPatches](https://modrinth.com/mod/euphoria-patches),
 [Solas Shader](https://modrinth.com/shader/solas-shader),
-[Miniature Shader](https://modrinth.com/shader/miniature-shader).
+[Miniature Shader](https://modrinth.com/shader/miniature-shader) and [Visual Vibrance](https://modrinth.com/shader/visual-vibrance).
 
-### Comparison: Vanilla vs Custom Panorama for 26.1
-![Comparison Vanilla vs Custom Panorama for 26.1](https://cdn.modrinth.com/data/cached_images/5ad90165f33a07cc73dba04aaea6004f3892023a_0.webp)
+### Custom Panorama for Chaos Cubed vs The Vanilla One
+![Custom vs Vanilla](https://cdn.modrinth.com/data/cached_images/9392e5eae06aebd241d2a4f080dd50637eed131e.jpeg)
 
 ### Contribute to the Project!
-We are Open for help for the Project, here is our [**Modrinth**](https://modrinth.com/resourcepack/vanilla-panorama-+) and we have a [Separate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all the Assets so you can build your own custom Panorama without [Respackopt](https://modrinth.com/mod/respackopts) to Switch Between Panoramas, or just Contribute easily to the Project. If you want to use this Project in a Modpack or Fork it, Please link this Modrinth page or our GitHub for Credit. Finally, we have this [Google Sheets](https://docs.google.com/spreadsheets/d/1pN8Wpvxt0Stt1Pqa3ScsRSd5hq2uKEP9c_vXmu_Oy80/edit?usp=sharing) to Track to the Progress of the Design, Build, Render and Packaging of the Project.
+We are Open for help for the Project, here is our [**Modrinth**](https://modrinth.com/resourcepack/vanilla-panorama-+) and we have a [Separate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all the Assets so you can build your own custom Panorama without [Respackopt](https://modrinth.com/mod/respackopts) to Switch Between Panoramas, or just Contribute easily to the Project. If you want to use this Project in a Modpack or Fork it, Please link this Modrinth page or our GitHub for Credit. Finally, we have this [Google Sheets](https://docs.google.com/spreadsheets/d/1pN8Wpvxt0Stt1Pqa3ScsRSd5hq2uKEP9c_vXmu_Oy80/edit?usp=sharing) to Track to the Progress of the Design, Build, Render and Packaging of the new Panoramas.
 
 ### Credits
 
